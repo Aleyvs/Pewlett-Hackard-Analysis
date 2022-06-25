@@ -209,3 +209,13 @@ SELECT  di.emp_no,
 INTO sales_dev_info
 FROM dept_info as di
 WHERE di.dept_name IN ('Sales', 'Development');
+
+
+     
+     
+     
+     
+     
+     
+     
+  
